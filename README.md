@@ -6,20 +6,20 @@
 
 本地目录展示如下：
 
-[](https://upload-images.jianshu.io/upload_images/2227968-b44b6d84fdc9ae7d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/2227968-b44b6d84fdc9ae7d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 
 静态文件服务器读取的目录如下：
 
-[](https://upload-images.jianshu.io/upload_images/2227968-4fa4316efb845682.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/2227968-4fa4316efb845682.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 
 
 读取图片展示如下；
 
-[](https://upload-images.jianshu.io/upload_images/2227968-b9e27dc013d9a0de.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/2227968-b9e27dc013d9a0de.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 
